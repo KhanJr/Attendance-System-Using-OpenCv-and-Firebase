@@ -36,3 +36,7 @@ Step IV(i):   First section of this Video is to find out the face recognition.
 Step IV(ii):  Second sectioin of this video is to write the values in xml file using face recognition.
 
 Step IV(ii):  Third section of this video ix to detect total number of student in the class.
+
+
+## Code Of The Project
+I haven't updloaded the code for this project because i am continuously devloping this project, because according to me this is one of the major need in india, we waste a ton load of paper for this purpose. I don't want our one of the key component of living (tree) to be waste like that.
