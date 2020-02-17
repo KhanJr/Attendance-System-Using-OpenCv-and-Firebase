@@ -14,4 +14,6 @@ So you can go threw my report and get some refrences from this. after you read m
 ## [Video Demo](www.google.com)
 #### There are steps to watch these video because i have not added the code for this project(Kinda private), Please watch these accordingly.
 
-Step I: Read the 
+Step I:   Read the Project file (Recommended). <br />
+Step II:  Watch the **KhanPresentApp** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name**            to the **Server**.
+Step III:  
