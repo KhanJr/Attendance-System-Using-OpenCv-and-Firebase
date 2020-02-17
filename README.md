@@ -23,7 +23,7 @@ So you can go threw my report and get some refrences from this. after you read m
 ## Video Demo
 #### There are steps to watch these video because i have not added the code for this project(Kinda private), Please watch these accordingly.
 
-Step I:       Read the Project file (Recommended). 
+Step I:       Read the [Project Report](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/projectReport.pdf) (Recommended). 
 
 Step II:      Watch **[KhanPresentApp](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/KhanPresentApp.mp4)** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name** to the **Server**. 
 
