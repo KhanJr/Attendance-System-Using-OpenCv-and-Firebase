@@ -14,6 +14,16 @@ So you can go threw my report and get some refrences from this. after you read m
 ## [Video Demo](www.google.com)
 #### There are steps to watch these video because i have not added the code for this project(Kinda private), Please watch these accordingly.
 
-Step I:   Read the Project file (Recommended). <br />
-Step II:  Watch the **KhanPresentApp** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name**            to the **Server**.
-Step III:  
+Step I:       Read the Project file (Recommended). 
+
+Step II:      Watch **[KhanPresentApp](Temp)** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name** to the **Server**. 
+
+Step III:     Watch **[InnovationLab_1](temp)** titled video. This is the firebase output of the App input. 
+
+Step IV:      Watch **[InnovationLab](temp)** titled video. This is the main video demo of this project. I can actually make sub-          section in this section.
+
+Step IV(i):   First section of this Video is to find out the face recognition.
+
+Step IV(ii):  Second sectioin of this video is to write the values in xml file using face recognition.
+
+Step IV(ii):  Third section of this video ix to detect total number of student in the class.
