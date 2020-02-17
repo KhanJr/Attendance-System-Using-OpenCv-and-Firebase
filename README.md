@@ -26,17 +26,34 @@ So you can go threw my report and get some refrences from this. after you read m
 Step I:       Read the [Project Report](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/projectReport.pdf) (Recommended). 
 
 Step II:      Watch **[KhanPresentApp](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/KhanPresentApp.mp4)** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name** to the **Server**. 
-![Detected_Image](RawImage/App.png)
+
+![Demo Image](RawPicure/App.png)
+
+**Here is the Given Attendence**
+
+![Demo Image](RawPicure/App1.png)
 
 Step III:     Watch **[InnovationLab_1](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/InnovationLab_1.mkv)** titled video. This is the firebase output of the App input. 
 
+![Demo Image](RawPicure/NameRoll.png)
+
 Step IV:      Watch **[InnovationLab](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/InnovationLab.mkv)** titled video. This is the main video demo of this project. I can actually make sub-          section in this section.
 
-Step IV(i):   First section of this Video is to find out the face recognition.
+Step IV(i):   First section of this Video is to find out the face recognition. Ihve train the model by taking the 30 face photo, in demo video you will find it out.
 
-Step IV(ii):  Second sectioin of this video is to write the values in xml file using face recognition.
+![Demo Image](RawPicure/faceRecognition.png)
 
-Step IV(ii):  Third section of this video ix to detect total number of student in the class.
+Step IV(ii):  Second sectioin of this video is to write the values in xml file using face recognition. You will find another name in this sheet this is my friend i was testing this on another persion.
+
+![Demo Image](RawPicure/xmlSheet.png)
+
+Step IV(ii):  Third section of this video is to detect total number of student in the class.
+
+![Demo Image](RawPicure/Detect.png)
+
+**Here is the firebase output**
+
+![Demo Image](RawPicure/firebaseDetect.png)
 
 
 ## Code Of The Project
