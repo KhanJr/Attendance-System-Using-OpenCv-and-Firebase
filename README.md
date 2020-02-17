@@ -11,16 +11,16 @@ I have completed this project. In next section i am going to give you a little t
 So you can go threw my report and get some refrences from this. after you read my project report, you will be able to understand how i done this project.
 
 
-## [Video Demo](www.google.com)
+## Video Demo
 #### There are steps to watch these video because i have not added the code for this project(Kinda private), Please watch these accordingly.
 
 Step I:       Read the Project file (Recommended). 
 
 Step II:      Watch **[KhanPresentApp](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/KhanPresentApp.mp4)** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name** to the **Server**. 
 
-Step III:     Watch **[InnovationLab_1](temp)** titled video. This is the firebase output of the App input. 
+Step III:     Watch **[InnovationLab_1](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/InnovationLab_1.mkv)** titled video. This is the firebase output of the App input. 
 
-Step IV:      Watch **[InnovationLab](temp)** titled video. This is the main video demo of this project. I can actually make sub-          section in this section.
+Step IV:      Watch **[InnovationLab](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/InnovationLab.mkv)** titled video. This is the main video demo of this project. I can actually make sub-          section in this section.
 
 Step IV(i):   First section of this Video is to find out the face recognition.
 
