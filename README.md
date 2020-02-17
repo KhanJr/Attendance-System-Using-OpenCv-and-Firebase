@@ -26,6 +26,7 @@ So you can go threw my report and get some refrences from this. after you read m
 Step I:       Read the [Project Report](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/projectReport.pdf) (Recommended). 
 
 Step II:      Watch **[KhanPresentApp](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/KhanPresentApp.mp4)** titled video. Get that in mind this is the Android App that is used to take **RollNo and Name** to the **Server**. 
+![Detected_Image](RawImage/App.png)
 
 Step III:     Watch **[InnovationLab_1](https://github.com/KhanJr/Attendance-System-Using-OpenCv-and-Firebase/blob/master/Project%20Demo/InnovationLab_1.mkv)** titled video. This is the firebase output of the App input. 
 
