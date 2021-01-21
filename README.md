@@ -1,5 +1,5 @@
 # Attendance-System-Using-OpenCv-and-Firebase
-## Breaf Intro.
+## Brief Intro.
 This is my innovation lab project. Using OpenCv and firebase to face recognition and take attendance.
 I had created this project in my Lab Course (Innovation Lab), I have completed this project under **```Dr Jimson Mathew (Mentor) HOD of CSE Department IIT PATNA```**.
 
